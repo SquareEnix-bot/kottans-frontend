@@ -1,5 +1,3 @@
-# kottans-frontend
-
 ## Hello, I'm Nastya
 
 In this repository I will write my impressions about Git.
