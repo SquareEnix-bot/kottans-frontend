@@ -10,4 +10,4 @@ After the course, I completed levels in the game on learngitbranching.js.org. Th
 
 I also worked a little with additional sources. Really enjoyed TypingClub.
 
-![This is an GIF](https://tenor.com/view/mission-complete-spongebob-done-gif-11766934)
+![This is an image](https://www.kindpng.com/picc/m/257-2570344_gta-san-andreas-mission-complete-png-transparent-png.png)
